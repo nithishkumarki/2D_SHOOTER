@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: a50c600f71c15af49a8e0021883d7506
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pistolBullet: {fileID: 1408118255127039715, guid: a2fa799e9a098a0458465cb3636dc459, type: 3}
+  - shotGunBullet: {fileID: 7658852140251802206, guid: acca48b76cf6cc246aaa092cd865ef34, type: 3}
+  - rifleBullet: {fileID: 2364165302604849097, guid: 610f75948014401418ef81618efd65dc, type: 3}
+  - M4A1Bullet: {fileID: 1408118255127039715, guid: a2fa799e9a098a0458465cb3636dc459, type: 3}
+  - rocketBullet: {instanceID: 0}
+  - healthSlider: {instanceID: 0}
+  - audioSource: {instanceID: 0}
+  - shortGunSound: {instanceID: 0}
+  - pistolSound: {instanceID: 0}
+  - rifleSound: {instanceID: 0}
+  - rocketGunSound: {instanceID: 0}
+  - M4A1Sound: {instanceID: 0}
+  - deathSound: {instanceID: 0}
+  - jumpSound: {instanceID: 0}
+  - player: {instanceID: 0}
+  - deathExplosion: {fileID: 2088871590894813759, guid: 745208c9d6e104225bd99e1ab894e3bb, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
